@@ -3,7 +3,7 @@ using namespace std;
 class biodata{
     public:
     int age;
-    char name;
+    string name;
     int codeforces_rating;
     int codechef_rating;
 };
